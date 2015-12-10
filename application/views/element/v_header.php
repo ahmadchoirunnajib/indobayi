@@ -18,7 +18,7 @@
     </style>
 
     <!-- Fav icon -->
-    <link rel="shortcut icon" href="<?php echo base_url('asset/img/favicon.ico')?>">
+    <link rel="shortcut icon" href="<?php echo base_url('asset/img/favicon.png')?>">
 
     <!-- JS -->
     <script type="text/javascript" src="<?php echo base_url('asset/js/jquery.js')?>"></script>
